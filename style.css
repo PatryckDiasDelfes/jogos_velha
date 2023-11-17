@@ -1,0 +1,32 @@
+h1 {
+    color: #F2E6CE;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    color: #F2E6CE;
+    text-align: center;
+}
+
+body {
+    background-color: #0D0D0D;
+}
+
+table {
+    margin: auto
+}
+
+td {
+    width: 120px;
+    height: 120px;
+    font-size: 90px;
+    color: aliceblue;
+    text-align: center;
+    background-color: #8C281F;
+    cursor: pointer;
+}
+
+td:hover {
+    background-color: #F23E2E;
+}
